@@ -15,10 +15,10 @@ fmodapi*linux/
 *~
 .gdb_history
 .DS_Store
-.vs
-.idea
-.vscode
-.cache
+.vs/
+.idea/
+.vscode/
+.cache/
 *.kate-swp
 *.geany
 
@@ -41,3 +41,8 @@ fmodapi*linux/
 /src/gl/unused
 /mapfiles_release/*.map
 .cache/
+
+# Visual Studio extras
+*.rsuser
+*.userosscache
+*.sln.docstates
